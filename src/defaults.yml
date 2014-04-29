@@ -1,1 +1,1 @@
-blocked: ["^bukkit:","^me"]
+blocked: ["^/bukkit:","^/me"]
