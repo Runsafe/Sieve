@@ -1,1 +1,1 @@
-option: value
+blocked: ["^bukkit:","^me"]
