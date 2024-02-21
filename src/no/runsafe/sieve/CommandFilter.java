@@ -27,5 +27,5 @@ public class CommandFilter implements IPlayerCommandPreprocessEvent, IConfigurat
 				event.cancel();
 	}
 
-	private final List<Pattern> rules = new ArrayList<Pattern>();
+	private final List<Pattern> rules = new ArrayList<>();
 }
